@@ -25,7 +25,4 @@ ShoppyGlobe is a basic e-commerce application built with React. It allows users 
 - **Routing Issues:** Handling dynamic routing for product detail pages without passing route parameters directly, while still ensuring correct fetching of data.
 - **UI Design:** Ensuring the application had a clean and responsive design using Tailwind CSS, making it visually appealing on different devices.
 
-## Installation Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Ashmita2282/shoppyglobe.git
+
