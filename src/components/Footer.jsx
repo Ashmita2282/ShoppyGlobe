@@ -14,20 +14,20 @@ function Footer() {
           </p>
           <div className="flex space-x-3 sm:ml-16">
             <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
-              <i className="fa-brands fa-facebook text-yellow-400 hover:text-yellow-500 fa-lg"></i>
+              <i className="fa-brands fa-facebook text-yellow-400 hover:text-yellow-400 fa-lg"></i>
             </a>
             <a
               href="https://www.instagram.com"
               target="_blank"
               rel="noreferrer"
             >
-              <i className="fa-brands fa-instagram text-yellow-400 hover:text-yellow-500 fa-lg"></i>
+              <i className="fa-brands fa-instagram text-yellow-400 hover:text-yellow-400 fa-lg"></i>
             </a>
             <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
-              <i className="fa-brands fa-twitter text-yellow-400 hover:text-yellow-500 fa-lg"></i>
+              <i className="fa-brands fa-twitter text-yellow-400 hover:text-yellow-400 fa-lg"></i>
             </a>
             <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">
-              <i className="fa-brands fa-linkedin text-yellow-400 hover:text-yellow-500 fa-lg"></i>
+              <i className="fa-brands fa-linkedin text-yellow-400 hover:text-yellow-400 fa-lg"></i>
             </a>
           </div>
         </div>
@@ -75,7 +75,7 @@ function Footer() {
               placeholder="Your email"
               className="w-full p-2 rounded-l-lg text-black focus:ring-2 focus:ring-yellow-400"
             />
-            <button className="bg-yellow-400 text-black p-2 rounded-r-lg hover:bg-yellow-500 transition duration-300 ease-in-out">
+            <button className="bg-yellow-400 text-black p-2 rounded-r-lg hover:bg-yellow-400 transition duration-300 ease-in-out">
               Subscribe
             </button>
           </div>

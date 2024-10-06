@@ -32,13 +32,13 @@ function ProductItem({ product }) {
       <p>Price: ${product.price}</p>
       <button
         onClick={handleAddToCart}
-        className="bg-blue-500 text-white p-2 rounded mt-2"
+        className="bg-blue-500 italic font-bold text-white p-2 rounded mt-2"
       >
         Add to Cart
       </button>
       <button
         onClick={handleViewDetails} // Call the function on click
-        className="bg-green-500 text-white p-2 rounded mt-2 ml-2"
+        className="bg-green-500 italic font-bold text-white p-2 rounded mt-2 ml-2"
       >
         View Details
       </button>

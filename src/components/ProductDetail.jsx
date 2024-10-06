@@ -41,7 +41,7 @@ function ProductDetail() {
           <Link to={"/product"}>
             <button
               onClick={handleSeeMore}
-              className="bg-yellow-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg shadow-lg transition-all ease-in-out duration-300 transform hover:scale-105"
+              className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg shadow-lg transition-all ease-in-out duration-300 transform hover:scale-105"
             >
               See More Products
             </button>

@@ -28,7 +28,7 @@ function Cart() {
     <div className="p-6 bg-gray-50 min-h-screen">
       {/* Beautiful Header */}
       <h1 className="text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 drop-shadow-lg shadow-black mt-6 mb-8 text-center">
-        Your Cart
+        Your Cart Details ...
       </h1>
 
       {cartItems.length === 0 ? (
@@ -61,7 +61,7 @@ function Cart() {
               Total Items: {cartItems.length}
             </p>
             <Link to="/checkout">
-              <button className="bg-purple-600 text-white px-6 py-2 rounded-md hover:bg-purple-700 transition-colors shadow-lg">
+              <button className=" px-6 py-2 bg-gradient-to-r from-yellow-400 to-yellow-600 text-white rounded-lg text-lg md:text-xl font-bold transition-transform transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-purple-500">
                 Proceed to Checkout
               </button>
             </Link>

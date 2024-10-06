@@ -62,7 +62,7 @@ function ContactUs() {
             <div className="text-center">
               <button
                 type="button"
-                className="bg-yellow-400 text-black font-bold py-3 px-8 rounded-lg hover:bg-yellow-500 cursor-not-allowed"
+                className="bg-yellow-400 text-black font-bold py-3 px-8 rounded-lg hover:bg-yellow-400 cursor-not-allowed"
                 disabled
               >
                 Send Message

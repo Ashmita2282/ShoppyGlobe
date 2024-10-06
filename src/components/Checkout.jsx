@@ -96,7 +96,7 @@ function Checkout() {
         {/* Proceed to Checkout Button */}
         <div className="text-center mt-8 px-4 md:px-0">
           <Link to={"/"}>
-            <button className="w-full md:max-w-md py-3 px-6 bg-gradient-to-r from-purple-600 to-indigo-500 text-white rounded-lg text-lg md:text-xl font-bold transition-transform transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-purple-500">
+            <button className="w-full md:max-w-md py-3 px-6 bg-gradient-to-r from-yellow-400 to-yellow-600 text-white rounded-lg text-lg md:text-xl font-bold transition-transform transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-purple-500">
               Proceed to Checkout
             </button>
           </Link>
